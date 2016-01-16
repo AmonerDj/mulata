@@ -1,0 +1,2 @@
+# mulata stereo
+app radial
